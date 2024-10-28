@@ -1,9 +1,5 @@
-# GaiminAI_Agent
-# AI Chatbot Assistant
-
-A Python-based AI chatbot assistant built using LangChain and Gaimin AI's language model, designed to maintain conversation history for contextual responses.
-
-## Setup
+# GaiminAI_Agent:
+## Setup:
 
 1. **Clone the Repository**:
     ```bash
