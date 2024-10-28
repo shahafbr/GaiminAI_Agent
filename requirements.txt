@@ -1,0 +1,5 @@
+langchain>=0.2.0
+langchain-gaimin  # Assuming this is a custom or specific package; if on PyPI, add version here if known
+pydantic>=1.10.2
+python-dotenv>=0.21.0
+python>=3.12.6
